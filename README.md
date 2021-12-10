@@ -3,7 +3,7 @@ Simple Async HTTP mDNS Server for ESP8266 with DS18B20 temperature sensor to mea
 
 # Installation
 Connect Dallas DS18B20 to your ESP8266 as follows:
-1. You need to have a 4.7k Ohm resistor connected between red wire (+) and yellow wire (DATA)
+1. You need to have a 4.7k Ohm resistor connected between red wire (+) and yellow wire (DATA) of DS18B20
 2. Connect yellow wire (DATA) to `D2` pin
 3. Connect black wire (GND or -) to `GND` or `G` pin
 4. Connect red wire (+) to `3V` pin
